@@ -1,0 +1,10 @@
+ffa1e462d37bbabc5e020d6bea5bd4bd *DESCRIPTION
+1d7479f7d56d6057af722a9ea307e807 *NAMESPACE
+22f9ee691e5bc2425a27bdd0aff34b2c *R/read_genalexcel.R
+a6bc2c4b87b3c08f72f2b219c2b34472 *R/zzz.R
+3c337859a76651b207b80c97c3905e96 *README.md
+0967af4acf471c9dd24d7041db97aca1 *inst/files/nancycats.xlsx
+34437d71147e2c8435a5bd53d7c5a4f7 *inst/files/nancycats_extra_columns.xlsx
+246c60ac948601e9141f625b5fc08bf3 *man/read.genalexcel.Rd
+b992fb492459d809b2c89806dc05948e *tests/testthat.R
+2967fd9499eaf64c051f5e8c65253207 *tests/testthat/test-import.R
