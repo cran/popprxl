@@ -1,14 +1,14 @@
-a3545d59fac595a5435703877c991fae *DESCRIPTION
+a543f9ffec4e3a0378d4cce9491ede0e *DESCRIPTION
 23d7bfcb1eec69c478a9dd9a6564d440 *NAMESPACE
-575d753116526a019747d2ca1662f5a9 *NEWS
+8d93451989eec07fd5a2c88441286af4 *NEWS
 6e2e736eb423bbc321d7fe97c8a7c3a3 *R/popprxl-package.r
 a0753be86225a2419b6e4135550dd102 *R/read_genalexcel.R
 a6bc2c4b87b3c08f72f2b219c2b34472 *R/zzz.R
 28964155d91a24a51a90b4edb97a32a3 *README.md
-6a1cdb68f4b7d0bf902dac13fe2f0e4f *build/vignette.rds
+1c6a640dd160439802ec59ec9315b6a3 *build/vignette.rds
 76ac5ea686d0beffd4e766cd7807af95 *inst/doc/quickstart.R
-c55125e2308b757c19daf3a54e30fc3f *inst/doc/quickstart.Rmd
-4a4a9f2daf1f572beffcce115fd0acaa *inst/doc/quickstart.html
+e2d049d3fa2be8a383e2cd5b61f7111b *inst/doc/quickstart.Rmd
+c062b0397b19863df5c97dc9dd6be4fc *inst/doc/quickstart.html
 a2a12f34d50aaa889de0fcc3ee774724 *inst/files/geo_ex.xls
 0967af4acf471c9dd24d7041db97aca1 *inst/files/nancycats.xlsx
 34437d71147e2c8435a5bd53d7c5a4f7 *inst/files/nancycats_extra_rows.xlsx
@@ -18,4 +18,4 @@ a774f28b1e04384f8329fa4c4872a751 *man/popprxl.Rd
 8c52b2767c5aa885ceecd4aada4ec4cd *man/read.genalexcel.Rd
 b992fb492459d809b2c89806dc05948e *tests/testthat.R
 19586b9d52de6b36dfcaeefcab0c9320 *tests/testthat/test-import.R
-c55125e2308b757c19daf3a54e30fc3f *vignettes/quickstart.Rmd
+e2d049d3fa2be8a383e2cd5b61f7111b *vignettes/quickstart.Rmd
